@@ -1,0 +1,12 @@
+body{
+    margin: 0;
+    font-family: sans-serif;
+}
+
+.bg-image{
+    width: 100%;
+    height: 100vh;
+    background: url("https://images.unsplash.com/photo-1660318493547-8ed693a0c5d6?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=774&q=80");
+    background-attachment: fixed;
+    background-size: 160px;
+}
